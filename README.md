@@ -1,3 +1,2 @@
-# hello-world
-just another 
+# hello-world 
 Hi , i wanna explain of myself
